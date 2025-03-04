@@ -11,5 +11,5 @@ There are two pre-trained models in this repo :
 ## Dataset 
 - Br35H : Brain Tumor Detection 2020
     * [Brain Tumor Detection Download Link](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
-
-A python flask app of project is available [here.](https://tumordetect.pythonanywhere.com/)
+##
+- A python flask app of project is available [here.](https://tumordetect.pythonanywhere.com/)
